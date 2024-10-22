@@ -3,3 +3,6 @@
 
 
 <a href="htts://jorge.staycode.dev"><img src="https://img.shields.io/badge/-Emmadi_Divya_Srujana-black?logo=github&style=flat-square"/></a>
+
+
+<a href="htts://jorge.staycode.dev"><img src="https://img.shields.io/badge/jorge?logo=instagram&style=flat-square"/></a>
