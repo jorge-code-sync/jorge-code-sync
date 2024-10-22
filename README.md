@@ -15,7 +15,8 @@ I'm ... 💻.
 
 🤝 &nbsp; Connect with Me
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jorge-estebanez-martin/)
+
+[<img src="https://live.staticflickr.com/65535/54086997000_0e8057c06f_h.jpg" />](https://www.linkedin.com/in/jorge-estebanez-martin/)
 <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 
 <hr>
