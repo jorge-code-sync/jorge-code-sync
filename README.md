@@ -52,3 +52,38 @@
 
 <p>* Skills in study and improvement.</p>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Projects</b>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Hexitalk</h3>
+<div align="center">
+<a href="https://hexitalk.com" target="_blank"><img src="https://live.staticflickr.com/65535/54087191514_d0863ba8c5_c.jpg" width="400" alt="Hexitalk"></a>
+<p>
+<a href="https://github.com/Hexitalk/hexitalk" target="_blank">
+<img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat">
+</a>
+<a href="https://hexitalk.com" target="_blank">
+<img src="https://img.shields.io/badge/Visit%20website-green?color=891a7e&style=flat">
+</a>
+</p>
+<p>An app where people can meet others through a system of 6 slots, where each slot is a chat with a different user. Inside each chat, there are joint activities that guide the conversation, making it easy to have topics to talk about. The app is open-source.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+    <br />
+<h3 align="center">Foundgamers</h3>
+<div align="center">                                       
+<a href="https://foundgamers.com" target="_blank"><img src="https://live.staticflickr.com/65535/54087106148_73688a60e0_c.jpg" width="400" alt="Foundgamers"></a>
+<br>
+<p>
+<a href="https://foundgamers.com" target="_blank">
+<img src="https://img.shields.io/badge/Visit%20website-green?color=891a7e&style=flat">
+</a>
+</p>
+</p>A social network focused on online gamers. On this platform, users can find other users who play the same video games and form groups based on language, schedules, and play style to play together. It also includes all the features of a social network, such as friendships, messages, posts, etc.</p>
+</div>                                                             
+</table>   
